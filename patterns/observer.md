@@ -36,7 +36,7 @@ Bow নামে একজন newsletter চালু করেছে।
 
 ---
 
-### 👨‍💻 কোড: (OOP version)
+### কোড: (OOP version)
 
 ```js
 // Subject (Publisher)
@@ -95,7 +95,7 @@ newsletter.publish("Design Patterns শেখা এখন সহজ!");
 
 ---
 
-### 🧠 তাহলে মূল কথা:
+### তাহলে Main কথা:
 
 * `Newsletter` হলো publisher (subject)
 * `User` হলো subscriber (observer)
@@ -137,7 +137,7 @@ newsletter.publish("Observer Pattern মজাদার!");
 
 ---
 
-### 📌 TL;DR
+### TL;DR
 
 * **Observer Pattern** = event শুনে কাজ করা
 * এটা **Publisher-Subscriber** system
