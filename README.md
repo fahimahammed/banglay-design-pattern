@@ -28,6 +28,7 @@
 | Singleton            | [Click Here](./patterns/singleton.md)   |
 | Factory             | [Click Here](./patterns/factory.md) |
 | Observer          | [Click Here](./patterns/observer.md) |
+| Proxy          | [Click Here](./patterns/proxy.md) |
 | Strategy             | Coming soon |
 | MVC                 | Coming soon |
 | Repository          | Coming soon |
