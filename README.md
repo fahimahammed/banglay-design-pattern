@@ -1,4 +1,4 @@
-# 🇧🇩 বাংলায় Design Patterns
+![Banglay-Design-Pattern](./assets/banglay-design-pattern.png)
 
 **💡 বাংলায় Design Patterns শিখুন - মজার ছলে, মাথায় গেঁথে যাক সহজে!**
 
