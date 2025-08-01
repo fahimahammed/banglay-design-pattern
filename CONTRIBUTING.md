@@ -55,12 +55,9 @@
 
 ধরুন আপনি **Observer Pattern** যোগ করতে চান:
 
-আপনি তৈরি করবেন `patterns/observer/` ফোল্ডার এবং ভিতরে রাখবেন:
+আপনি তৈরি করবেন `patterns/` ফোল্ডার এবং ভিতরে রাখবেন:
 
-* `README.md` → ব্যাখ্যা: "Observer মানে event শুনে কাজ করা, যেমন Notification system"
-* `js-oop.js` → Simple class-based pub-sub কোড
-* `js-func.js` → Closure দিয়ে observer বানানো
-* `example.md` → "Newsletter subscription system"-এর ব্যাখ্যা
+* `pattern_name.md` → ব্যাখ্যা: "Observer মানে event শুনে কাজ করা, যেমন Notification system"
 
 ---
 
