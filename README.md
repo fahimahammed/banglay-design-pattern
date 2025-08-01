@@ -25,15 +25,15 @@
 
 | Pattern Name           | Link     |
 |------------------------|------------|
-| ✅ Singleton            | [Click Here](./patterns/singleton.md)   |
-| 🏗️ Factory             | Coming soon |
-| 🕵️‍♂️ Observer          | Coming soon |
-| 🧠 Strategy             | Coming soon |
-| 🏛️ MVC                 | Coming soon |
-| 📦 Repository          | Coming soon |
-| 🧼 Service Layer       | Planned    |
-| 🧪 Dependency Injection| Planned    |
-| 🔁 Middleware           | Planned    |
+| Singleton            | [Click Here](./patterns/singleton.md)   |
+| Factory             | [Click Here](./patterns/factory.md) |
+| Observer          | [Click Here](./patterns/observer.md) |
+| Strategy             | Coming soon |
+| MVC                 | Coming soon |
+| Repository          | Coming soon |
+| Service Layer       | Planned    |
+| Dependency Injection| Planned    |
+| Middleware           | Planned    |
 
 👉 আপনি চাইলে নিজের পছন্দের pattern নিয়েও contribute করতে পারেন! 
 
