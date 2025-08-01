@@ -26,18 +26,7 @@
 
 ## ফোল্ডার স্ট্রাকচার
 
-প্রতিটি pattern এর জন্য একটি আলাদা ফোল্ডার থাকবে:
-উদাহরণ: `patterns/singleton/`
-
-এর ভিতরে থাকবে:
-
-| ফাইল                         | কাজ                                             |
-| ---------------------------- | ----------------------------------------------- |
-| `README.md`                  | বাংলায় মূল ব্যাখ্যা + হাস্যরস                   |
-| `js-oop.js`                  | OOP (class-based) কোড                           |
-| `js-func.js`                 | Functional (closure-based) কোড                  |
-| `example.md`                 | বাস্তব জীবনের বা প্রজেক্টে ব্যবহারের উদাহরণ     |
-| `thumbnail.png` *(optional)* | Canva design, funny meme, বা illustrative চিত্র |
+- `patterns/design_pattern_name.md`
 
 ---
 
