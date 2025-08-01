@@ -1,6 +1,6 @@
 ![Factory](../assets/factory-thumb.png)
 
-## Factory Pattern - নিজের জন্য বানাও, কিন্তু Choice সহ!
+## Factory Pattern: নিজের জন্য বানাও, কিন্তু Choice সহ!
 
 **আমরা সবাই চা খাই, কিন্তু কেউ লাল চা, কেউ দুধ চা, কেউ আবার মালাই চা — Factory Pattern বলছে, চিন্তা নাই ভাই, যার যেটা পছন্দ, সেটাই বানিয়ে দিচ্ছি!** 
 

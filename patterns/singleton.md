@@ -1,5 +1,5 @@
 ![Singleton](../assets/singleton-thumb.png)
-## Singleton Pattern — একটাই বউ, সারা জীবন কষ্ট!
+## Singleton Pattern: একটাই বউ, সারা জীবন কষ্ট!
 
 **জীবনে যেমন একটা ভালো বউই যথেষ্ট, কোডেও তেমন একটা Singleton-ই যথেষ্ট!**
 

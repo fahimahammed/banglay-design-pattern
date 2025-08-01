@@ -1,6 +1,6 @@
 ![Observer](../assets/observer-thumb.png)
 
-## Observer Pattern — শুনে শুনে কাজ করা! 
+## Observer Pattern: শুনে শুনে কাজ করা! 
 
 > “ঘন্টা বাজলেই স্কুল শেষ, notification এলেই ফেইসবুক খুলি — এই যে event শুনে action, এটাকেই বলে Observer Pattern!”
 
