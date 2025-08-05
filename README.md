@@ -29,8 +29,8 @@
 | Factory             | [Click Here](./patterns/factory.md) |
 | Observer          | [Click Here](./patterns/observer.md) |
 | Proxy          | [Click Here](./patterns/proxy.md) |
+| MVC                 | [Click Here](./patterns/mvc.md) |
 | Strategy             | Coming soon |
-| MVC                 | Coming soon |
 | Repository          | Coming soon |
 | Service Layer       | Planned    |
 | Dependency Injection| Planned    |
